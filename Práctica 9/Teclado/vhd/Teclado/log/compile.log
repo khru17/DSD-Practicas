@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\Teclado\vhd\Teclado.vhd
+ Compile Entity "teclado"
+ Compile Architecture "DSMB" of Entity "teclado"
+ Top-Level unit detected
+ Entity  =>   teclado
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

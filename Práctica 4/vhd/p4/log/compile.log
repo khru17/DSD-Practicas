@@ -1,0 +1,6 @@
+ Compilation...
+ File: C:\Documents and Settings\khru\Desktop\p4\vhd\p4.vhd
+ Compile Entity "mealy"
+ Entity "mealy" has been skipped - no difference detected.
+ Compile Architecture "DSMB" of Entity "mealy"
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

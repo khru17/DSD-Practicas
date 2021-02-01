@@ -1,0 +1,2 @@
+sensores1.vhd #Entity sensores_1 6
+sensores1.vhd #Architecture a_sensores_1 sensores_1 18

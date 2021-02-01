@@ -1,0 +1,10 @@
+ENTITY p3 IS
+    PORT (
+	d : in std_logic_vector (6 downto 0) ; 
+	es : in std_logic  ; 
+	clk : in std_logic  ; 
+	clr : in std_logic  ; 
+	sel : in std_logic_vector (1 downto 0) ; 
+	q : inout std_logic_vector (6 downto 0)
+    ) ;
+END p3 ;

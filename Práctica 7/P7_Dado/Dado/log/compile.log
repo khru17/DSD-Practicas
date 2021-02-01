@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\P7_Dado\Dado.vhd
+ Compile Entity "dado"
+ Compile Architecture "A_dado" of Entity "dado"
+ Top-Level unit detected
+ Entity  =>   dado
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

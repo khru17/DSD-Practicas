@@ -1,0 +1,8 @@
+[Project]
+Current config=GENERIC
+VCS=0
+modified=44
+[Configurations]
+GENERIC=p4
+[Files]
+/C:\Documents and Settings\khru\Desktop\p4\vhd\p4.vhd=4, 1 30847450 2744844336, 0, , , ,

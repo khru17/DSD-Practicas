@@ -1,0 +1,2 @@
+Teclado.vhd #Entity teclado 4
+Teclado.vhd #Architecture a_teclado teclado 17

@@ -1,0 +1,12 @@
+ENTITY cartaasm IS
+    PORT (
+	d : in std_logic_vector (5 downto 0) ; 
+	clk : in std_logic  ; 
+	clr : in std_logic  ; 
+	ini : in std_logic  ; 
+	a : inout std_logic_vector (5 downto 0) ; 
+	lb : inout std_logic  ; 
+	eb : inout std_logic  ; 
+	ec : inout std_logic 
+    ) ;
+END cartaasm ;

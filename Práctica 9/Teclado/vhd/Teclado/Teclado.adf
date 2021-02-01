@@ -1,0 +1,8 @@
+[Project]
+Current config=GENERIC
+VCS=0
+modified=10
+[Configurations]
+GENERIC=Teclado
+[Files]
+/C:\Documents and Settings\Administrator\Desktop\Teclado\vhd\Teclado.vhd=4, 1 30853472 467989312, 0, , , ,

@@ -1,0 +1,12 @@
+Cypress Package: palce22v10-15pc  PinOut File: contador.pin
+
+This file was created on 11/19/2020 at 23:05:26 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+clk gclk <> Enabled Normal 1 <> [User] 
+en in <> Enabled Normal 2 <> [User] 
+clr in <> Enabled Normal 13 <> [User] 
+q(0) inout <> Enabled Normal 17 <> [User] 
+q(1) inout <> Enabled Normal 20 <> [User] 
+q(2) inout <> Enabled Normal 23 <> [User] 

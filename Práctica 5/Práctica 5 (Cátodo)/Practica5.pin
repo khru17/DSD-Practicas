@@ -1,0 +1,18 @@
+Cypress Package: palce22v10-15pc  PinOut File: Practica5.pin
+
+This file was created on 11/16/2020 at 21:13:40 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+clk gclk <> Enabled Normal 1 <> [User] 
+clr in <> Enabled Normal 13 <> [User] 
+sel(0) inout <> Enabled Normal 14 <> [User] 
+sel(1) inout <> Enabled Normal 15 <> [User] 
+sel(2) inout <> Enabled Normal 16 <> [User] 
+display(0) out <> Enabled Normal 17 <> [User] 
+display(1) out <> Enabled Normal 18 <> [User] 
+display(2) out <> Enabled Normal 19 <> [User] 
+display(3) out <> Enabled Normal 20 <> [User] 
+display(4) out <> Enabled Normal 21 <> [User] 
+display(5) out <> Enabled Normal 22 <> [User] 
+display(6) out <> Enabled Normal 23 <> [User] 

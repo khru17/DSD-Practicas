@@ -1,0 +1,40 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.all;
+
+ENTITY Multiplexer IS PORT (
+    CLK, CLR : IN STD_LOGIC;
+    DISPLAY : OUT STD_LOGIC_VECTOR(6 DOWNTO 0);
+    SEL : INOUT STD_LOGIC_VECTOR(2 DOWNTO 0)
+);
+ATTRIBUTE PIN_NUMBERS OF Multiplexer : ENTITY IS 
+    "DISPLAY(6):23 DISPLAY(5):22 DISPLAY(4):21 DISPLAY(3):20 DISPLAY(2):19 "&
+    "DISPLAY(1):18 DISPLAY(0):17 SEL(2):16 SEL(1):15 SEL(0):14 CLR:13 CLK:1 ";
+
+END Multiplexer;
+
+ARCHITECTURE A_Multiplexer OF Multiplexer IS
+                                             --ABCDEFG
+CONSTANT L1 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1001111"; --I
+CONSTANT L2 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1110001"; --L
+CONSTANT L3 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1000001"; --U
+
+BEGIN
+    DECO : PROCESS ( SEL )
+    BEGIN
+        CASE SEL IS
+            WHEN "001" => DISPLAY <= L1;
+            WHEN "010" => DISPLAY <= L2;
+            WHEN "100" => DISPLAY <= L3;
+            WHEN OTHERS => DISPLAY <= "-------";
+        END CASE;
+    END PROCESS DECO;
+
+    ANILLO : PROCESS ( CLK, CLR ) 
+    BEGIN
+        IF ( CLR = '1') THEN
+            SEL <= "100";
+        ELSIF ( CLK'EVENT AND CLK = '1' ) THEN  
+            SEL <= TO_STDLOGICVECTOR( TO_BITVECTOR( SEL ) ROL 1);
+        END IF;
+    END PROCESS ANILLO;
+END A_Multiplexer;

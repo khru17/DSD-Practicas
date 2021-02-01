@@ -1,0 +1,33 @@
+Design: 06:44 p.m., Viernes, 23 de Octubre de 2020
+Design: Opening design "C:\Documents and Settings\khru\Desktop\p3\vhd\p3\p3.adf"
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+06:46 p.m., Viernes, 23 de Octubre de 2020
+Simulation has been initialized
+Selected Top-Level: p3 (DSMB)
+KERNEL: stopped at time: 100 ns
+KERNEL: stopped at time: 200 ns
+KERNEL: stopped at time: 300 ns
+KERNEL: stopped at time: 400 ns
+KERNEL: stopped at time: 500 ns
+KERNEL: stopped at time: 600 ns
+KERNEL: stopped at time: 700 ns
+KERNEL: stopped at time: 800 ns
+KERNEL: stopped at time: 900 ns
+KERNEL: stopped at time: 1 us
+KERNEL: stopped at time: 1100 ns
+KERNEL: stopped at time: 1200 ns
+KERNEL: stopped at time: 1300 ns
+KERNEL: stopped at time: 1400 ns
+KERNEL: stopped at time: 1500 ns
+KERNEL: stopped at time: 1600 ns
+KERNEL: stopped at time: 1700 ns
+KERNEL: stopped at time: 1800 ns
+Simulation has been stopped

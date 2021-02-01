@@ -1,0 +1,32 @@
+Design: 4:59 PM, Monday, November 23, 2020
+Design: Opening design "C:\Documents and Settings\Administrator\Desktop\P7_Dado\Dado\Dado.adf"
+Compilation with file reorder...
+File: C:\Documents and Settings\Administrator\Desktop\P7_Dado\Dado.vhd
+Compile Entity "dado"
+Compile Architecture "A_dado" of Entity "dado"
+Top-Level unit detected
+Entity  =>   dado
+Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+5:01 PM, Monday, November 23, 2020
+Simulation has been initialized
+Selected Top-Level: dado (A_dado)
+KERNEL: stopped at time: 100 ns
+KERNEL: stopped at time: 200 ns
+KERNEL: stopped at time: 300 ns
+KERNEL: stopped at time: 400 ns
+KERNEL: stopped at time: 500 ns
+KERNEL: stopped at time: 600 ns
+KERNEL: stopped at time: 700 ns
+KERNEL: stopped at time: 800 ns
+KERNEL: stopped at time: 900 ns
+KERNEL: stopped at time: 1 us
+Simulation has been stopped

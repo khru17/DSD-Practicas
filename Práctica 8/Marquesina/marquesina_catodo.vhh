@@ -1,0 +1,8 @@
+ENTITY marquesina IS
+    PORT (
+	e : in std_logic_vector (2 downto 0) ; 
+	clr : in std_logic  ; 
+	clk : in std_logic  ; 
+	display : inout std_logic_vector (9 downto 0)
+    ) ;
+END marquesina ;

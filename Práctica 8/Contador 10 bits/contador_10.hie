@@ -1,0 +1,2 @@
+contador_10.vhd #Entity contador_10 4
+contador_10.vhd #Architecture a_contador_10 contador_10 12

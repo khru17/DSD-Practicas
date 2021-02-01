@@ -1,0 +1,29 @@
+Design: 2:36 AM, Thursday, December 03, 2020
+Design: Opening design "C:\Documents and Settings\Administrator\Desktop\Teclado\vhd\Teclado\Teclado.adf"
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+Compilation with file reorder...
+File: C:\Documents and Settings\Administrator\Desktop\Teclado\vhd\Teclado.vhd
+Compile Entity "teclado"
+Compile Architecture "DSMB" of Entity "teclado"
+Top-Level unit detected
+Entity  =>   teclado
+Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+2:39 AM, Thursday, December 03, 2020
+Simulation has been initialized
+Selected Top-Level: teclado (DSMB)
+KERNEL: stopped at time: 100 ns
+KERNEL: stopped at time: 200 ns
+KERNEL: stopped at time: 300 ns
+KERNEL: stopped at time: 400 ns
+KERNEL: stopped at time: 500 ns
+Simulation has been stopped

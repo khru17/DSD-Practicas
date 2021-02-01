@@ -1,0 +1,8 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\gal1\gal1.vhd
+ Compile Entity "cartaASM"
+ Compile Architecture "a_cartaASM" of Entity "cartaASM"
+Error:  COMP96_0264:gal1.vhd : (32, 13): Signal "a0" in the sensitivity list must denote a signal that can be read.
+ Top-Level unit detected
+ Entity  =>   cartaASM
+ Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]

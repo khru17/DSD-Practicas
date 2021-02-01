@@ -1,0 +1,2 @@
+ROM.vhd #Entity marquesinarom2 7
+ROM.vhd #Architecture a_marquesinarom2 marquesinarom2 17

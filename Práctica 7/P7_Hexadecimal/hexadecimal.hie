@@ -1,0 +1,2 @@
+hexadecimal.vhd #Entity hexadecimal 4
+hexadecimal.vhd #Architecture a_hexadecimal hexadecimal 12

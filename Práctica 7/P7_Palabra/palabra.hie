@@ -1,0 +1,2 @@
+palabra.vhd #Entity palabra 4
+palabra.vhd #Architecture a_palabra palabra 12

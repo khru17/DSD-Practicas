@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\Sensores2\sensores2.vhd
+ Compile Entity "sensores_2"
+ Compile Architecture "A_sensores_2" of Entity "sensores_2"
+ Top-Level unit detected
+ Entity  =>   sensores_2
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

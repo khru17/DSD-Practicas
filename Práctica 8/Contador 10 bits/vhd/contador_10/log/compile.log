@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\Contador 10 bits\vhd\contador_10.vhd
+ Compile Entity "contador_10"
+ Compile Architecture "DSMB" of Entity "contador_10"
+ Top-Level unit detected
+ Entity  =>   contador_10
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

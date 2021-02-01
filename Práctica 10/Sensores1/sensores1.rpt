@@ -1,0 +1,575 @@
+
+     | | | | | | |
+   _________________
+  -|               |-
+  -|               |-
+  -|               |-
+  -|    CYPRESS    |-
+  -|               |-
+  -|               |-   Warp VHDL Synthesis Compiler: Version 6.3 IR 35
+  -|               |-   Copyright (C) 1991-2001 Cypress Semiconductor
+   |_______________|
+     | | | | | | |
+
+======================================================================
+Compiling:  sensores1.vhd
+Options:    -yu -e10 -w100 -o2 -ygs -fP -v10 -dc22v10 -ppalce22v10-15pc -b sensores1.vhd -u sensores1.hie
+======================================================================
+
+vhdlfe V6.3 IR 35:  VHDL parser
+Thu Dec 10 14:19:31 2020
+
+Library 'work' => directory 'lc22v10'
+Linking 'C:\Program Files\Cypress\Warp\bin\std.vhd'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\cypress.vhd'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\work\cypress.vif'.
+Library 'ieee' => directory 'C:\Program Files\Cypress\Warp\lib\ieee\work'
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\stdlogic.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\syntocyp.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\synarith.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\synusgnd.vif'.
+sensores1.vhd (line 40, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 43, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 46, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 49, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 56, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 59, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 62, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 65, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 72, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 75, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 78, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 81, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 88, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 91, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 94, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 97, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 104, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 107, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 110, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 113, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 120, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 123, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 126, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 129, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 136, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 139, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 142, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 145, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 152, col 32):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 155, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 158, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 161, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 175, col 29):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 176, col 34):  Note: Substituting module 'add_vi_v_us' for '+'.
+sensores1.vhd (line 177, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 179, col 38):  Note: Substituting module 'add_vi_v_us' for '+'.
+sensores1.vhd (line 181, col 30):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 182, col 33):  Note: Substituting module 'sub_vi_v_us' for '-'.
+sensores1.vhd (line 183, col 35):  Note: Substituting module 'cmp_vv_us_bl' for '='.
+sensores1.vhd (line 185, col 38):  Note: Substituting module 'sub_vi_v_us' for '-'.
+
+vhdlfe:  No errors.
+
+
+tovif V6.3 IR 35:  High-level synthesis
+Thu Dec 10 14:19:31 2020
+
+Linking 'C:\Program Files\Cypress\Warp\bin\std.vhd'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\cypress.vhd'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\work\cypress.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\stdlogic.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\syntocyp.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\synarith.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\synusgnd.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\lpmpkg.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\rtlpkg.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\mod_cnst.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\syntocyp.vif'.
+
+tovif:  No errors.
+
+
+topld V6.3 IR 35:  Synthesis and optimization
+Thu Dec 10 14:19:31 2020
+
+Linking 'C:\Program Files\Cypress\Warp\bin\std.vhd'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\cypress.vhd'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\work\cypress.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\stdlogic.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\syntocyp.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\synarith.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\ieee\work\synusgnd.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\lpmpkg.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\rtlpkg.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\mod_cnst.vif'.
+Linking 'C:\Program Files\Cypress\Warp\lib\common\stdlogic\syntocyp.vif'.
+State variable 'edo_act' is represented by a Bit_vector (0 to 2).
+State encoding (sequential) for 'edo_act' is:
+	q0 :=	b"000";
+	q1 :=	b"001";
+	q2 :=	b"010";
+	q3 :=	b"011";
+	q4 :=	b"100";
+	q5 :=	b"101";
+	q6 :=	b"110";
+	q7 :=	b"111";
+State variable 'edo_sig' is represented by a Bit_vector (0 to 2).
+State encoding (sequential) for 'edo_sig' is:
+	q0 :=	b"000";
+	q1 :=	b"001";
+	q2 :=	b"010";
+	q3 :=	b"011";
+	q4 :=	b"100";
+	q5 :=	b"101";
+	q6 :=	b"110";
+	q7 :=	b"111";
+Linking 'C:\Program Files\Cypress\Warp\lib\lc22v10\stdlogic\c22v10.vif'.
+
+----------------------------------------------------------
+Detecting unused logic.
+----------------------------------------------------------
+
+
+
+------------------------------------------------------
+Alias Detection
+------------------------------------------------------
+
+------------------------------------------------------
+Aliased 0 equations, 88 wires.
+------------------------------------------------------
+
+----------------------------------------------------------
+Circuit simplification
+----------------------------------------------------------
+
+----------------------------------------------------------
+Circuit simplification results:
+
+	Expanded 40 signals.
+	Turned 0 signals into soft nodes.
+	Maximum default expansion cost was set at 10.
+----------------------------------------------------------
+
+------------------------------------------------------
+Alias Detection
+------------------------------------------------------
+
+------------------------------------------------------
+Aliased 0 equations, 0 wires.
+------------------------------------------------------
+Created 162 PLD nodes.
+
+topld:  No errors.
+
+----------------------------------------------------------------------------
+PLD Optimizer Software:       DSGNOPT.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+DESIGN HEADER INFORMATION  (14:19:33)
+
+Input File(s): sensores1.pla
+Device       : C22V10
+Package      : palce22v10-15pc
+ReportFile   : sensores1.rpt
+
+Program Controls:
+    COMMAND LANGUAGE_VHDL 
+    COMMAND PROPERTY BUS_HOLD ENABLE 
+
+Signal Requests:
+    GROUP USEPOL ALL
+    GROUP FAST_SLEW ALL
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Optimizer Software:       DSGNOPT.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+OPTIMIZATION OPTIONS       (14:19:33)
+
+Messages:
+  Information: Process virtual '\dece(0)D\'\dece(0)D\ ... expanded.
+  Information: Process virtual '\dece(1)D\'\dece(1)D\ ... expanded.
+  Information: Process virtual '\dece(2)D\'\dece(2)D\ ... expanded.
+  Information: Process virtual '\unid(0)D\'\unid(0)D\ ... expanded.
+  Information: Process virtual '\unid(1)D\'\unid(1)D\ ... expanded.
+  Information: Process virtual '\unid(2)D\'\unid(2)D\ ... expanded.
+  Information: Process virtual '\unid(3)D\'\unid(3)D\ ... expanded.
+  Information: Process virtual 'sal_0'sal_0 ... expanded.
+  Information: Process virtual 'sal_1'sal_1 ... expanded.
+  Information: Process virtual 'edo_sigSBV_2'edo_sigSBV_2 ... expanded.
+  Information: Process virtual 'edo_actSBV_2' ... converted to NODE.
+  Information: Process virtual 'edo_sigSBV_1'edo_sigSBV_1 ... expanded.
+  Information: Process virtual 'edo_actSBV_1' ... converted to NODE.
+  Information: Process virtual 'edo_sigSBV_0'edo_sigSBV_0 ... expanded.
+  Information: Process virtual 'edo_actSBV_0' ... converted to NODE.
+  Information: Optimizing logic using best output polarity for signals:
+         dece(0).D dece(1).D dece(2).D edo_actSBV_0.D edo_actSBV_1.D
+         edo_actSBV_2.D unid(0).D unid(1).D unid(2).D unid(3).D
+
+  Information: Selected logic optimization OFF for signals:
+         dece(0).AR dece(0).C dece(1).AR dece(1).C dece(2).AR dece(2).C
+         edo_actSBV_0.AR edo_actSBV_0.C edo_actSBV_1.AR edo_actSBV_1.C
+         edo_actSBV_2.AR edo_actSBV_2.C unid(0).AR unid(0).C unid(1).AR
+         unid(1).C unid(2).AR unid(2).C unid(3).AR unid(3).C
+
+
+
+Summary:
+                 Error Count = 0      Warning Count = 0
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Optimizer Software:       MINOPT.EXE     01/NOV/1999  [v4.02 ] 6.3 IR 35
+
+LOGIC MINIMIZATION         ()
+
+Messages:
+
+
+Summary:
+                 Error Count = 0      Warning Count = 0
+
+Completed Successfully
+----------------------------------------------------------------------------
+PLD Optimizer Software:       DSGNOPT.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+OPTIMIZATION OPTIONS       (14:19:33)
+
+Messages:
+  Information: Optimizing Banked Preset/Reset requirements.
+
+
+Summary:
+                 Error Count = 0      Warning Count = 0
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Compiler Software:        PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+<CYPRESSTAG name="Equations" icon=FILE_RPT_EQUATION>
+DESIGN EQUATIONS           (14:19:33)
+</CYPRESSTAG>
+
+    dece(0).D =
+          /dece(0).Q * /edo_actSBV_0.Q * edo_actSBV_1.Q * edo_actSBV_2.Q * 
+          /ent(0) * unid(0).Q * /unid(1).Q * /unid(2).Q * unid(3).Q 
+        + /dece(0).Q * edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * 
+          /ent(1) * /unid(0).Q * /unid(1).Q * /unid(2).Q * /unid(3).Q 
+        + dece(0).Q * ent(0) * unid(3).Q 
+        + dece(0).Q * edo_actSBV_0.Q * unid(0).Q 
+        + dece(0).Q * /edo_actSBV_2.Q * unid(3).Q 
+        + dece(0).Q * ent(1) * /unid(0).Q 
+        + dece(0).Q * edo_actSBV_2.Q * /unid(0).Q 
+        + dece(0).Q * /edo_actSBV_0.Q * /unid(3).Q 
+        + dece(0).Q * unid(2).Q 
+        + dece(0).Q * unid(1).Q 
+        + dece(0).Q * /edo_actSBV_1.Q 
+
+    dece(0).AR =
+          clr 
+
+    dece(0).SP =
+          GND
+
+    dece(0).C =
+          clk 
+
+    dece(1).D =
+          dece(0).Q * /dece(1).Q * /edo_actSBV_0.Q * edo_actSBV_1.Q * 
+          edo_actSBV_2.Q * /ent(0) * unid(0).Q * /unid(1).Q * /unid(2).Q * 
+          unid(3).Q 
+        + /dece(0).Q * /dece(1).Q * edo_actSBV_0.Q * edo_actSBV_1.Q * 
+          /edo_actSBV_2.Q * /ent(1) * /unid(0).Q * /unid(1).Q * /unid(2).Q * 
+          /unid(3).Q 
+        + dece(1).Q * ent(0) * unid(3).Q 
+        + dece(1).Q * edo_actSBV_0.Q * edo_actSBV_2.Q 
+        + /dece(0).Q * dece(1).Q * unid(0).Q 
+        + dece(1).Q * /edo_actSBV_2.Q * unid(3).Q 
+        + dece(1).Q * /edo_actSBV_0.Q * /unid(0).Q 
+        + dece(1).Q * ent(1) * /unid(3).Q 
+        + dece(0).Q * dece(1).Q * /unid(3).Q 
+        + dece(1).Q * unid(2).Q 
+        + dece(1).Q * unid(1).Q 
+        + dece(1).Q * /edo_actSBV_1.Q 
+
+    dece(1).AR =
+          clr 
+
+    dece(1).SP =
+          GND
+
+    dece(1).C =
+          clk 
+
+    dece(2).D =
+          dece(0).Q * dece(1).Q * /dece(2).Q * /edo_actSBV_0.Q * 
+          edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * unid(0).Q * 
+          /unid(1).Q * /unid(2).Q * unid(3).Q 
+        + /dece(0).Q * /dece(1).Q * /dece(2).Q * edo_actSBV_0.Q * 
+          edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(1) * /unid(0).Q * 
+          /unid(1).Q * /unid(2).Q * /unid(3).Q 
+        + dece(2).Q * ent(0) * unid(3).Q 
+        + dece(2).Q * edo_actSBV_0.Q * unid(3).Q 
+        + /dece(0).Q * dece(2).Q * ent(1) 
+        + dece(0).Q * /dece(1).Q * dece(2).Q 
+        + /dece(0).Q * dece(2).Q * /edo_actSBV_0.Q 
+        + dece(1).Q * dece(2).Q * /edo_actSBV_2.Q 
+        + dece(2).Q * edo_actSBV_2.Q * /unid(0).Q 
+        + dece(2).Q * unid(0).Q * /unid(3).Q 
+        + dece(2).Q * unid(2).Q 
+        + dece(2).Q * unid(1).Q 
+        + dece(2).Q * /edo_actSBV_1.Q 
+
+    dece(2).AR =
+          clr 
+
+    dece(2).SP =
+          GND
+
+    dece(2).C =
+          clk 
+
+    edo_actSBV_0.D =
+          edo_actSBV_0.Q * /edo_actSBV_1.Q * edo_actSBV_2.Q * ent(1) 
+        + edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * ent(1) 
+        + /edo_actSBV_1.Q * /edo_actSBV_2.Q * ent(0) 
+        + /edo_actSBV_1.Q * ent(0) * /ent(1) 
+        + edo_actSBV_0.Q * ent(0) 
+
+    edo_actSBV_0.AR =
+          clr 
+
+    edo_actSBV_0.SP =
+          GND
+
+    edo_actSBV_0.C =
+          clk 
+
+    edo_actSBV_1.D =
+          edo_actSBV_0.Q * /edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * 
+          ent(1) 
+        + edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(0) * 
+          ent(1) 
+        + edo_actSBV_1.Q * edo_actSBV_2.Q * ent(0) * ent(1) 
+        + /edo_actSBV_0.Q * ent(0) * ent(1) 
+        + /edo_actSBV_0.Q * edo_actSBV_1.Q * ent(0) 
+
+    edo_actSBV_1.AR =
+          clr 
+
+    edo_actSBV_1.SP =
+          GND
+
+    edo_actSBV_1.C =
+          clk 
+
+    edo_actSBV_2.D =
+          edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * ent(1) 
+        + /edo_actSBV_0.Q * edo_actSBV_1.Q * ent(0) * /ent(1) 
+        + edo_actSBV_0.Q * ent(0) * ent(1) 
+        + /edo_actSBV_1.Q * /edo_actSBV_2.Q * ent(1) 
+        + /edo_actSBV_0.Q * /ent(0) * ent(1) 
+
+    edo_actSBV_2.AR =
+          clr 
+
+    edo_actSBV_2.SP =
+          GND
+
+    edo_actSBV_2.C =
+          clk 
+
+    unid(0).D =
+          /edo_actSBV_0.Q * edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * 
+          /unid(0).Q 
+        + edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(1) * 
+          /unid(0).Q 
+        + edo_actSBV_2.Q * ent(0) * unid(0).Q 
+        + edo_actSBV_0.Q * edo_actSBV_2.Q * unid(0).Q 
+        + /edo_actSBV_2.Q * ent(1) * unid(0).Q 
+        + /edo_actSBV_0.Q * /edo_actSBV_2.Q * unid(0).Q 
+        + /edo_actSBV_1.Q * unid(0).Q 
+
+    unid(0).AR =
+          clr 
+
+    unid(0).SP =
+          GND
+
+    unid(0).C =
+          clk 
+
+    unid(1).D =
+          /edo_actSBV_0.Q * edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * 
+          unid(0).Q * /unid(1).Q * unid(2).Q 
+        + edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(1) * 
+          /unid(0).Q * /unid(1).Q * unid(3).Q 
+        + edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(1) * 
+          /unid(0).Q * /unid(1).Q * unid(2).Q 
+        + /edo_actSBV_0.Q * edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * 
+          unid(0).Q * /unid(1).Q * /unid(3).Q 
+        + ent(0) * unid(0).Q * unid(1).Q 
+        + edo_actSBV_0.Q * ent(1) * unid(1).Q 
+        + edo_actSBV_0.Q * edo_actSBV_2.Q * unid(1).Q 
+        + /edo_actSBV_2.Q * unid(0).Q * unid(1).Q 
+        + /edo_actSBV_0.Q * /unid(0).Q * unid(1).Q 
+        + /edo_actSBV_1.Q * unid(1).Q 
+
+    unid(1).AR =
+          clr 
+
+    unid(1).SP =
+          GND
+
+    unid(1).C =
+          clk 
+
+    unid(2).D =
+          edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(1) * 
+          /unid(0).Q * /unid(1).Q * /unid(2).Q * unid(3).Q 
+        + /edo_actSBV_0.Q * edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * 
+          unid(0).Q * unid(1).Q * /unid(2).Q 
+        + ent(0) * unid(1).Q * unid(2).Q 
+        + edo_actSBV_0.Q * unid(0).Q * unid(2).Q 
+        + /edo_actSBV_2.Q * unid(1).Q * unid(2).Q 
+        + ent(1) * /unid(0).Q * unid(2).Q 
+        + edo_actSBV_2.Q * /unid(0).Q * unid(2).Q 
+        + /edo_actSBV_0.Q * /unid(1).Q * unid(2).Q 
+        + /edo_actSBV_1.Q * unid(2).Q 
+
+    unid(2).AR =
+          clr 
+
+    unid(2).SP =
+          GND
+
+    unid(2).C =
+          clk 
+
+    unid(3).D =
+          /edo_actSBV_0.Q * edo_actSBV_1.Q * edo_actSBV_2.Q * /ent(0) * 
+          unid(0).Q * unid(1).Q * unid(2).Q * /unid(3).Q 
+        + edo_actSBV_0.Q * edo_actSBV_1.Q * /edo_actSBV_2.Q * /ent(1) * 
+          /unid(0).Q * /unid(1).Q * /unid(2).Q * /unid(3).Q 
+        + ent(0) * unid(0).Q * unid(3).Q 
+        + edo_actSBV_0.Q * unid(2).Q * unid(3).Q 
+        + edo_actSBV_0.Q * ent(1) * unid(3).Q 
+        + edo_actSBV_0.Q * edo_actSBV_2.Q * unid(3).Q 
+        + /edo_actSBV_2.Q * unid(0).Q * unid(3).Q 
+        + /edo_actSBV_0.Q * /unid(0).Q * unid(3).Q 
+        + /unid(1).Q * unid(2).Q * unid(3).Q 
+        + unid(1).Q * /unid(2).Q * unid(3).Q 
+        + /edo_actSBV_1.Q * unid(3).Q 
+
+    unid(3).AR =
+          clr 
+
+    unid(3).SP =
+          GND
+
+    unid(3).C =
+          clk 
+
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Compiler Software:        PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+DESIGN RULE CHECK          (14:19:33)
+
+Messages:
+                 None.
+
+
+Summary:
+                 Error Count = 0      Warning Count = 0
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Compiler Software:        PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+<CYPRESSTAG name="Pinout" icon=FILE_RPT_PINOUT>
+PINOUT INFORMATION   (14:19:33)
+</CYPRESSTAG>
+Messages:
+  Information: Checking for duplicate NODE logic.
+                 None.
+
+
+                                 C22V10
+                 __________________________________________
+            clk =| 1|                                  |24|* not used       
+         ent(1) =| 2|                                  |23|= (edo_actSBV_2) 
+         ent(0) =| 3|                                  |22|= unid(2)        
+       not used *| 4|                                  |21|= unid(3)        
+       not used *| 5|                                  |20|= dece(0)        
+       not used *| 6|                                  |19|= (edo_actSBV_0) 
+       not used *| 7|                                  |18|= (edo_actSBV_1) 
+       not used *| 8|                                  |17|= dece(2)        
+       not used *| 9|                                  |16|= dece(1)        
+       not used *|10|                                  |15|= unid(1)        
+       not used *|11|                                  |14|= unid(0)        
+       not used *|12|                                  |13|= clr            
+                 __________________________________________
+
+
+Summary:
+                 Error Count = 0      Warning Count = 0
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Compiler Software:        PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+<CYPRESSTAG name="Utilization" icon=FILE_RPT_UTILIZATION>
+RESOURCE UTILIZATION (14:19:33)
+</CYPRESSTAG>
+  Information: Macrocell Utilization.
+
+                     Description        Used     Max
+                 ______________________________________
+                 | Dedicated Inputs   |    3  |   11  |
+                 | Clock/Inputs       |    1  |    1  |
+                 | I/O Macrocells     |   10  |   10  |
+                 ______________________________________
+                                          14  /   22   = 63  %
+
+
+  Information: Output Logic Product Term Utilization.
+
+                  Node#  Output Signal Name  Used   Max
+                 ________________________________________
+                 | 14  |  unid(0)         |   7  |   8  |
+                 | 15  |  unid(1)         |  10  |  10  |
+                 | 16  |  dece(1)         |  12  |  12  |
+                 | 17  |  dece(2)         |  13  |  14  |
+                 | 18  |  edo_actSBV_1    |   5  |  16  |
+                 | 19  |  edo_actSBV_0    |   5  |  16  |
+                 | 20  |  dece(0)         |  11  |  14  |
+                 | 21  |  unid(3)         |  11  |  12  |
+                 | 22  |  unid(2)         |   9  |  10  |
+                 | 23  |  edo_actSBV_2    |   5  |   8  |
+                 | 25  |  Unused          |   0  |   1  |
+                 ________________________________________
+                                             88  / 121   = 72  %
+
+
+Completed Successfully  
+----------------------------------------------------------------------------
+PLD Compiler Software:        PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+JEDEC ASSEMBLE             (14:19:33)
+
+Messages:
+  Information: Output file 'sensores1.pin' created.
+  Information: Output file 'sensores1.jed' created.
+
+  Usercode:    
+  Checksum:    CF27
+
+
+
+Summary:
+                 Error Count = 0      Warning Count = 0
+
+Completed Successfully at 14:19:33

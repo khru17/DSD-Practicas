@@ -1,0 +1,13 @@
+Design: 6:46 PM, Thursday, January 21, 2021
+Design: Opening design "C:\Documents and Settings\Administrator\Desktop\P11\gal1\vhd\gal1\gal1.adf"
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+Compilation with file reorder...
+File: C:\Documents and Settings\Administrator\Desktop\P11\gal1\vhd\gal1.vhd
+Compile Entity "cartaasm"
+Compile Architecture "DSMB" of Entity "cartaasm"
+Top-Level unit detected
+Entity  =>   cartaasm
+Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].

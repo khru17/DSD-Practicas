@@ -1,0 +1,8 @@
+ENTITY dado IS
+    PORT (
+	clr : in std_logic  ; 
+	clk : in std_logic  ; 
+	en : in std_logic  ; 
+	display : inout std_logic_vector (6 downto 0)
+    ) ;
+END dado ;

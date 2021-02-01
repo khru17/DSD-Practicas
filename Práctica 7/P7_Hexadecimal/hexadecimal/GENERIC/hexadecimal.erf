@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrator\Desktop\P7_Hexadecimal\hexadecimal.vhd" 
+MESSAGE "Compile Entity "hexadecimal"" 
+MESSAGE "Compile Architecture "A_hexadecimal" of Entity "hexadecimal"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   hexadecimal" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

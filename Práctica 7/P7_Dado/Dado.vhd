@@ -1,0 +1,44 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.all;
+
+ENTITY dado IS PORT (
+    CLR, CLK, EN : IN STD_LOGIC;
+    DISPLAY : OUT STD_LOGIC_VECTOR(6 DOWNTO 0)
+);
+ATTRIBUTE PIN_NUMBERS OF DADO: ENTITY IS
+    "CLK:1 EN:2 CLR:13 DISPLAY(6):23 DISPLAY(5):22 DISPLAY(4):21 DISPLAY(3):20 DISPLAY(2):19 DISPLAY(1):18 DISPLAY(0):17";
+END dado;
+
+ARCHITECTURE A_dado OF dado IS
+
+CONSTANT Q0 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "0110000";
+CONSTANT Q1 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1101101";
+CONSTANT Q2 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1111001";
+CONSTANT Q3 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "0110011";
+CONSTANT Q4 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1011011";
+CONSTANT Q5 : STD_LOGIC_VECTOR(6 DOWNTO 0) := "1011111";
+
+SIGNAL SAL : STD_LOGIC_VECTOR(6 DOWNTO 0);
+
+BEGIN
+
+    PROCESS (CLK, CLR)
+    BEGIN
+        IF ( CLR = '1') THEN
+            SAL <= Q0;
+        ELSIF ( RISING_EDGE(CLK) ) THEN
+            IF ( EN = '1') THEN
+                CASE SAL IS
+                    WHEN Q0 => SAL <= Q1;
+                    WHEN Q1 => SAL <= Q2;
+                    WHEN Q2 => SAL <= Q3;
+                    WHEN Q3 => SAL <= Q4;
+                    WHEN Q4 => SAL <= Q5;
+                    WHEN Q5 => SAL <= Q0;
+                    WHEN OTHERS => SAL <= Q0;
+                END CASE;
+            END IF;
+        END IF;
+    END PROCESS;
+    DISPLAY <= SAL;
+END A_dado;

@@ -1,0 +1,14 @@
+ENTITY p2 IS
+    PORT (
+	d : in std_logic  ; 
+	t : in std_logic  ; 
+	s : in std_logic  ; 
+	r : in std_logic  ; 
+	j : in std_logic  ; 
+	k : in std_logic  ; 
+	clk : in std_logic  ; 
+	clr : in std_logic  ; 
+	sel : in std_logic_vector (1 downto 0) ; 
+	sal : inout std_logic_vector (5 downto 0)
+    ) ;
+END p2 ;

@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrator\Desktop\P6_2\P6_2.vhd" 
+MESSAGE "Compile Entity "contadorGenerico"" 
+MESSAGE "Compile Architecture "AcontadorGenerico" of Entity "contadorGenerico"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   contadorGenerico" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

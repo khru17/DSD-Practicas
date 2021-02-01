@@ -1,0 +1,34 @@
+Design: 2:57 AM, Friday, November 20, 2020
+Design: Opening design "C:\Documents and Settings\Administrator\Desktop\P6_2\P6_2\P6_2.adf"
+Compilation with file reorder...
+File: C:\Documents and Settings\Administrator\Desktop\P6_2\P6_2.vhd
+Compile Entity "contadorGenerico"
+Compile Architecture "AcontadorGenerico" of Entity "contadorGenerico"
+Top-Level unit detected
+Entity  =>   contadorGenerico
+Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+3:06 AM, Friday, November 20, 2020
+Simulation has been initialized
+Selected Top-Level: contadorGenerico (AcontadorGenerico)
+KERNEL: stopped at time: 100 ns
+KERNEL: stopped at time: 200 ns
+KERNEL: stopped at time: 300 ns
+KERNEL: stopped at time: 400 ns
+Cannot force signal D with formula 11111111.
+KERNEL: stopped at time: 500 ns
+KERNEL: stopped at time: 600 ns
+KERNEL: stopped at time: 700 ns
+KERNEL: stopped at time: 800 ns
+KERNEL: stopped at time: 900 ns
+KERNEL: stopped at time: 1 us
+KERNEL: stopped at time: 1100 ns
+Simulation has been stopped

@@ -1,0 +1,12 @@
+ENTITY contadorgenerico IS
+    PORT (
+	clk : in std_logic  ; 
+	clr : in std_logic  ; 
+	en : in std_logic  ; 
+	ud : in std_logic  ; 
+	l : in std_logic  ; 
+	d : in std_logic_vector (6 downto 0) ; 
+	c : inout std_logic  ; 
+	q : inout std_logic_vector (6 downto 0)
+    ) ;
+END contadorgenerico ;

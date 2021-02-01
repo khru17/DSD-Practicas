@@ -1,0 +1,9 @@
+ENTITY sensores_1 IS
+    PORT (
+	unid : inout std_logic_vector (3 downto 0) ; 
+	dece : inout std_logic_vector (2 downto 0) ; 
+	ent : in std_logic_vector (1 downto 0) ; 
+	clr : in std_logic  ; 
+	clk : in std_logic 
+    ) ;
+END sensores_1 ;

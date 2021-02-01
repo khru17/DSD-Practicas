@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrator\Desktop\P7_Dado\Dado.vhd" 
+MESSAGE "Compile Entity "dado"" 
+MESSAGE "Compile Architecture "A_dado" of Entity "dado"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   dado" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

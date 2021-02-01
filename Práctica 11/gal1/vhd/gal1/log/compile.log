@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\P11\gal1\vhd\gal1.vhd
+ Compile Entity "cartaasm"
+ Compile Architecture "DSMB" of Entity "cartaasm"
+ Top-Level unit detected
+ Entity  =>   cartaasm
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

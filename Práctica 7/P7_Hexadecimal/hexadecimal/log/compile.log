@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\P7_Hexadecimal\hexadecimal.vhd
+ Compile Entity "hexadecimal"
+ Compile Architecture "A_hexadecimal" of Entity "hexadecimal"
+ Top-Level unit detected
+ Entity  =>   hexadecimal
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

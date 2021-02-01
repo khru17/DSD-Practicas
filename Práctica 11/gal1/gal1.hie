@@ -1,0 +1,2 @@
+gal1.vhd #Entity cartaasm 6
+gal1.vhd #Architecture a_cartaasm cartaasm 18

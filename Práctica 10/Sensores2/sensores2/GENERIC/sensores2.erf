@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrator\Desktop\Sensores2\sensores2.vhd" 
+MESSAGE "Compile Entity "sensores_2"" 
+MESSAGE "Compile Architecture "A_sensores_2" of Entity "sensores_2"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   sensores_2" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

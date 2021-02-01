@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrator\Desktop\P6_2\P6_2.vhd
+ Compile Entity "contadorGenerico"
+ Compile Architecture "AcontadorGenerico" of Entity "contadorGenerico"
+ Top-Level unit detected
+ Entity  =>   contadorGenerico
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
